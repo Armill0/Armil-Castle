@@ -54,7 +54,8 @@ La struttura narrativa è ispirata a **Save the Cat** di Blake Snyder — ogni p
 
 L'interfaccia è costruita con **Swing** — tema dark atmosferico, font Georgia, testo color pergamena, accenti oro antico. Non era richiesta. L'ho fatta perché il gioco la meritava.
 
-![screenshot placeholder](screenshot.png)
+<img width="779" height="520" alt="screeenshottttt" src="https://github.com/user-attachments/assets/c3b75fed-0038-41c7-8d41-6cffab4756fa" />
+
 
 ---
 
