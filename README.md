@@ -121,7 +121,7 @@ Il file di salvataggio viene creato nella directory da cui avvii il programma co
 
 ## 🛠️ Tecnologie e concetti
 
-- **Java 25** — instance main methods, record classes, enhanced switch
+- **Java 25** — instance main methods, record classes
 - **Swing** — GUI con layout manager, scrollbar personalizzata, tema dark
 - **Pattern Command** — ogni azione del giocatore è un oggetto
 - **Pattern Strategy** — output intercambiabile tra terminale e GUI
@@ -135,7 +135,9 @@ Il file di salvataggio viene creato nella directory da cui avvii il programma co
 
 **Alessandro Baire** — studente di Informatica, appassionato di narrativa interattiva e architettura software.
 
-Questo è il secondo progetto che pubblico su GitHub. Il primo era un gioco testuale in C++. La differenza tra i due dice tutto sulla crescita che c'è stata nel mezzo.
+Questo è il secondo videogioco che pubblico su GitHub. Il primo era un gioco testuale in C++. La differenza tra i due dice tutto sulla crescita che c'è stata nel mezzo.
+Questo gioco è il sequel diretto di Armil Land. Dopo una serie infinita di battaglie, il nostro protagonista si ritrova vittima di ciò che accade a chiunque di noi: si scorda il motivo per il quale ha iniziato a combattere tutte queste battaglie. 
+Il viaggio assume da subito una fortissima componente psicologica e filosofica. È un viaggio universale, che unisce l'io giocatore all'io personaggio. Buon divertimento!
 
 ---
 
